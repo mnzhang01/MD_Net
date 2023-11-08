@@ -3,7 +3,7 @@ This repository provides the code of the following paper: [Self-supervised multi
 
 To train/test our paper, please run the *main.py*.
 
-You can test this code on your own data, if the result is not as good as expected, please try more by changing the '*kernel_size*' and '*num_iter*'.
+You can test this code on your own data. If the deblurring result is not as good as expected, please try more by changing the '*kernel_size*' and '*num_iter*'.
 
 If you find our work useful for your research, please cite it:
 ```
