@@ -7,12 +7,14 @@ You can test this code on your own data. If the deblurring result is not as good
 
 If you find our work useful for your research, please cite it:
 ```
-@article{zhang2023self,
+@article{zhang2024self,
   title={Self-supervised multi-scale neural network for blind deblurring},
   author={Zhang, Meina and Yang, Ying and Ni, Guoxi and Wu, Tingting and Zeng, Tieyong},
   journal={Inverse Problems and Imaging},
-  pages={0--0},
-  year={2023},
+  volume={18},
+  number={3},
+  pages={623--641},
+  year={2024},
   publisher={Inverse Problems and Imaging}
 }
 ```
